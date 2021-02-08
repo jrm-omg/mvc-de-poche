@@ -17,7 +17,7 @@ J'ajoute également une porte d'entrée que l'on appelle Routeur :
   - Il va afficher ce qu'il souhaite via **les vues** [flèche 3 sur le schéma]
 
 ## Je fabrique mon premier MVC (de poche)
-Jetez un oeil au petit MVC contenu dans le répertoire `exo` :
+Jetez un œil au petit MVC contenu dans le répertoire `exo` :
 
 Le routeur est déjà créé, c'est le petit fichier `index.php`. Il contient des instructions pour appeler deux contrôleurs.
   - Un contrôleur qui se lance lorsque le visiteur appelle `index.php?hello`
