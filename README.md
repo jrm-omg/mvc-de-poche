@@ -32,3 +32,18 @@ Ce contrôleur hello (`ctrl.hello.php` pour les intimes) doit choper une info (a
 À vos marques ? Prêts ? Codez !
 
 ![wow, what a system](what-a-system.gif)
+
+### Pour aller plus loin
+
+Quoi, vous avez déjà terminé cet exo. Ok voici du challenge alors.
+
+![du challenge ? oui, j'en vois - heu j'en bois pardon - régulièrement, hips](zen-bois-regulierement-430x539-q83.jpg)
+
+On va s'ajouter une nouvelle route appelée `citoyen-read-all`.
+
+Du coup, on créé les nouveaux fichiers suivants :
+- `controller/ctrl.citoyen-read-all.php`
+- `model/model.citoyen.php`
+- `view/view.citoyen-read-all.php`
+
+Votre mission : afficher tous les "citoyens" d'une base de données, lorsqu'un visiteur appelle `index.php?citoyen-read-all`.
